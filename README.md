@@ -1,5 +1,4 @@
 # shiva_krishna
-Example data science portfolio
 Machinehack-ML-Merchandise-Popularity-Prediction
 
 
